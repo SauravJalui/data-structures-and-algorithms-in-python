@@ -13,6 +13,7 @@ def BinarySearch(A, key):
     return False
 
 A = [15, 21, 47, 84, 96]
+print(A)
 found = BinarySearch(A, 96)
 print("The element 96  is found ?: ", found)
 
